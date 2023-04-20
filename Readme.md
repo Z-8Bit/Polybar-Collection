@@ -36,43 +36,43 @@ You can customize the polybars by editing the ini file in each folder.
 
 The "fruitmonster" style features a colourful and playful design.
 
-![fruitmonster screenshot](screenshots/fruitmonster.png)
+![fruitmonster screenshot](images/fruitmonster.png)
 
 ### Kanye
 
 The "kanye" style features a minimalist design just like Kanye West.
 
-![kanye screenshot](screenshots/kanye.png)
+![kanye screenshot](images/kanye.png)
 
 ### Mono
 
 The "mono" style features a simple and elegant bottom bar with a monochrome color scheme.
 
-![mono screenshot](screenshots/mono.png)
+![mono screenshot](images/mono.png)
 
 ### Simple
 
 The "simple" style features a basic polybar design just edited with colours and some text to look better. It's a good starter config to configure further.
 
-![simple screenshot](screenshots/simple.png)
+![simple screenshot](images/simple.png)
 
 ### Exci
 
 The "exci" style is a modification of my good friend Exigma's polybar config.
 
-![exci screenshot](screenshots/exci.png)
+![exci screenshot](images/exci.png)
 
 ### Blocks
 
 The "blocks" style features a modular design with blocks representing different system information.
 
-![blocks screenshot](screenshots/blocks.png)
+![blocks screenshot](images/blocks.png)
 
 ### Bubblegum
 
 The "bubblegum" style features a bubbly cyan-coloured design.
 
-![bubblegum screenshot](screenshots/bubblegum.png)
+![bubblegum screenshot](images/bubblegum.png)
 
 ## Contributing
 
