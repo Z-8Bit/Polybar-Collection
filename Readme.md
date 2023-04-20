@@ -27,16 +27,16 @@ cd fruitmonster
 cp config.ini ~/.config/polybar/
 polybar &
 ```
-
+Remember to always rename the config file to ``config.ini``
 You can customize the polybars by editing the ini file in each folder.
 
 ## Styles
 
-### Fruitmonster
+### Fruitmonsters
 
-The "fruitmonster" style features a colourful and playful design.
+The "fruitmonsters" style features a colourful and playful design.
 
-![fruitmonster screenshot](images/fruitmonster.png)
+![fruitmonster screenshot](images/fruitmonsters.png)
 
 ### Kanye
 
@@ -66,13 +66,17 @@ The "exci" style is a modification of my good friend Exigma's polybar config.
 
 The "blocks" style features a modular design with blocks representing different system information.
 
-![blocks screenshot](images/blocks.png)
+![blocks screenshot](images/blocks-blue.png)
+
+![blocks screenshot](images/blocks-multicolour.png)
 
 ### Bubblegum
 
 The "bubblegum" style features a bubbly cyan-coloured design.
 
 ![bubblegum screenshot](images/bubblegum.png)
+
+![bubblegum screenshot](images/bubblegum-transparent.png)
 
 ## Contributing
 
