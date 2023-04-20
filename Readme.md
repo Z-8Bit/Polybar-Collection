@@ -1,4 +1,4 @@
-# Polybars Collection
+# Polybar Collection
 
 This is a collection of different styles of polybars I've made over time.
 
