@@ -20,15 +20,15 @@ git clone https://github.com/Z-8Bit/polybar-collection.git && cd polybar-collect
 
 ## Usage
 
-To use one of the styles, navigate to the corresponding folder run the `launch.sh` script. For example, to use the "fruitmonster" style, run the following command:
+To use one of the styles, navigate to the corresponding folder and copy over the config file. For example, to use the "fruitmonster" style, run the following command:
 
 ```
 cd fruitmonster
 cp config.ini ~/.config/polybar/
 polybar &
 ```
-Remember to always rename the config file to ``config.ini``
-You can customize the polybars by editing the ini file in each folder.
+Remember to always rename the .ini file to ``config.ini``
+You can customize the polybars by editing the .ini file in each folder.
 
 ## Styles
 
